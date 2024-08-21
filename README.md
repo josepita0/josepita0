@@ -8,6 +8,11 @@ My strengths are in frontend development, in frameworks such as Angular and Next
 
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,nextjs,tailwind)](https://skillicons.dev)
 
+I'm currently working on a react component library using vite like compiler, with the focus to generate dynamic forms usign shadcn-ui componentes, and published on npm
+
+ [![My Skills](https://skillicons.dev/icons?i=ts,vite,npm)](https://skillicons.dev)
+
+
 <!--
 **josepita0/josepita0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
