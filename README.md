@@ -1,4 +1,4 @@
-## Hi👋, I'm José
+## Hi👋 I'm José
 
 I'm really passionate person, with great adaptability, not afraid to face new challenges 🌱
 
