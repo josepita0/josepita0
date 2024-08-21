@@ -6,7 +6,7 @@ Currently I've been working for more than three years as a software developer, w
 
 My strengths are in frontend development, in frameworks such as Angular and NextJs, having a great ability to solve in both
 
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,tailwind,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,nextjs,tailwind)](https://skillicons.dev)
 
 <!--
 **josepita0/josepita0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
