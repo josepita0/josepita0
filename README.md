@@ -6,7 +6,7 @@ Currently I've been working for more than three years as a software developer, w
 
 My strengths are in frontend development, in frameworks such as Angular and NextJs, having a great ability to solve in both
 
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,nextjs,tailwind&theme=light)](https://skillicons.dev)
 
 I'm currently working on a react component library using vite like compiler, with the focus to generate dynamic forms usign shadcn-ui componentes, and published on npm
 
